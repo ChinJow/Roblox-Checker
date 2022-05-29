@@ -1,4 +1,5 @@
 import requests
+#Fuck You SKID. FREE SCRIPT
 def check():
     lines = open('cookies.txt').read().splitlines()
     linesset = set(lines)
